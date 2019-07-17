@@ -5,7 +5,7 @@
 - [Google Drive](https://drive.google.com/file/d/1zsUnEmXTLwXqTKytpv3dWTqEreK90_bI/view?usp=sharing)
 ## Citation
 Please cite the above publication if you use the code or compare with the ASRCF tracker in your work. Bibtex entry:
-
+```
 @InProceedings{Dai_2019_CVPR,  
   author = {Dai, Kenan and Wang, Dong and Lu, Huchuan and Sun, Chong and Li, Jianhua},  
   title = {Visual Tracking via Adaptive Spatially-Regularized Correlation Filters},  	
@@ -13,7 +13,7 @@ Please cite the above publication if you use the code or compare with the ASRCF 
   month = {June},  
   year = {2019}  
 }  
-
+```
 ## Installation
 1. Clone the GIT repository:
 
