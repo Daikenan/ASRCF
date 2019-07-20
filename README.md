@@ -40,3 +40,6 @@ We use GPU card 1 by default, if you want to use other GPU cards, such as card 2
 % opts.gpus=[2];
 % prepareGPUs2(opts,ture);
 ```
+## Spatial regularization
+In our demo, we show the spatial adaptive regularization by default, but this is time consuming.
+if you want to close it, you need just set `params.show_regularization = 0` in `run_ASRCF.m`.
