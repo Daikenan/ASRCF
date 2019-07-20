@@ -33,3 +33,10 @@ Please cite the above publication if you use the code or compare with the ASRCF 
 4. Run the demo script to test the tracker:
 
    |>> demo_ASRCF
+   
+## Use different GPU cards
+We use GPU card 1 by default, if you want to use other GPU cards, you can run these code in matlab Command Window.
+```
+% opts.gpus=[2];
+% prepareGPUs2(opts,ture);
+```
