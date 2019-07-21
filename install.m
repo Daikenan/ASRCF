@@ -2,6 +2,7 @@
 
 [home_dir, name, ext] = fileparts(mfilename('fullpath'));
 % donwload network
+    mkdir model
     cd model/
     if ~(exist('imagenet-vgg-m-2048.mat', 'file') == 2)
         disp('Downloading the network "imagenet-vgg-m-2048.mat" from "http://www.vlfeat.org/matconvnet/models/imagenet-vgg-m-2048.mat"...')
