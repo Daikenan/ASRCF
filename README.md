@@ -1,6 +1,9 @@
 # ASRCF
 - Visual Tracking via Adaptive Spatially-Regularized Correlation Filters
 
+<div align="center">
+  <img src="/home/dkn/faceocc1.gif" width="500px" />
+</div>
 ## Paper link
 - [Google Drive](https://drive.google.com/file/d/1zsUnEmXTLwXqTKytpv3dWTqEreK90_bI/view?usp=sharing)
 ## Citation
