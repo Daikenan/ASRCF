@@ -2,7 +2,7 @@
 - Visual Tracking via Adaptive Spatially-Regularized Correlation Filters
 
 <div align="center">
-  <img src="https://github.com/Daikenan/ASRCF/blob/master/faceocc1.gif" width="400px" />
+  <img src="https://github.com/Daikenan/ASRCF/blob/master/faceocc1.gif" width="500px" />
 </div>
 
 ## Paper link
