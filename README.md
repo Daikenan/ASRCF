@@ -55,3 +55,8 @@ args = horzcat(‘-R2018a’…..
 ## Spatial regularization
 - In our demo, we show the spatial adaptive regularization by default, but this is time consuming.
 if you want to close it, you need just set `params.show_regularization = 0` in `run_ASRCF.m`.
+
+## Results
+- OTB100
+- TC128
+- LaSOT
