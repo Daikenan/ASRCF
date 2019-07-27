@@ -59,5 +59,5 @@ if you want to close it, you need just set `params.show_regularization = 0` in `
 ## Results
 - OTB100
 - TC128
-- LaSOT
+- LaSOT  
 All these results will be availiable tomorrow.
