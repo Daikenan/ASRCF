@@ -19,7 +19,8 @@ Please cite the above publication if you use the code or compare with the ASRCF 
 }  
 ```
 ## Platfrom
-### System:Ubuntu 16.04 (it may have some problems in windows 10, but someone has successfully run through, if you encounter some difficult problems, you can submit issues.)
+### System:
+Ubuntu 16.04 (it may have some problems in windows 10, but someone has successfully run through, if you encounter some difficult problems, you can submit issues.)
 ### 
 ## Installation
 1. Clone the GIT repository:
