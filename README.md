@@ -19,6 +19,7 @@ Please cite the above publication if you use the code or compare with the ASRCF 
 }  
 ```
 
+## Installation
 ### System: Ubuntu 16.04 
 It may have some problems in windows 10, but someone has successfully run through, if you encounter some difficult problems, you can submit issues.
 ### Platfrom: Matlab 2017a(Or lower version)
@@ -26,7 +27,6 @@ If you want to run it with matlab2018, you may need to add ‘-R2018a’ to the 
 ```
 args = horzcat(‘-R2018a’…..
 ```
-## Installation
 1. Clone the GIT repository:
 ```
  $ git clone https://github.com/Daikenan/ASRCF.git
