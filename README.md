@@ -60,4 +60,4 @@ if you want to close it, you need just set `params.show_regularization = 0` in `
 - OTB100
 - TC128
 - LaSOT
-All these results will be avialiable tomorrow.
+All these results will be availiable tomorrow.
