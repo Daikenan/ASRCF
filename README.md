@@ -60,3 +60,6 @@ if you want to close it, you need just set `params.show_regularization = 0` in `
 - [OTB100](https://drive.google.com/open?id=1pceA0p4C3DvfVK2-U7asPuSh9b-CJ3Hh)
 - [TC128](https://drive.google.com/open?id=1ps1BKdxidSsdbck6ynWwozKoKffv9rUA)
 - [LaSOT](https://drive.google.com/open?id=1R3RnRJp3vMznuXGQaHiZaZVG_pB9O65e)  
+
+## Contact
+- If you have any other question, you can contact me by email: dkn2014@mail.dlut.edu.cn
