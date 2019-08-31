@@ -24,7 +24,7 @@ num_frames     = params.no_fram;
 init_target_sz = target_sz;
 ifcompress=params.ifcompress;
 pe=params.pe;
-% use large sle for small target
+% use large scale for small target
    if init_target_sz(1)*init_target_sz(2)<900&&(size(im1,1)*size(im1,2))/(init_target_sz(1)*init_target_sz(2))>180
        search_area_scale=6.5;
        pe=[0.1,1,0];
